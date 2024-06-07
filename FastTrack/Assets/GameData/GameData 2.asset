@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d86a5b2ec9f27145b07704f61072c31, type: 3}
+  m_Name: GameData 2
+  m_EditorClassIdentifier: 
+  username: tst
+  playTime: 216.94525
+  money: 100000
+  lastPlayed: 638533449365839705
+  unlockedCars: 010000
+  currentActiveCar: 0

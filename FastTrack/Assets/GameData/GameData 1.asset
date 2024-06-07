@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d86a5b2ec9f27145b07704f61072c31, type: 3}
+  m_Name: GameData 1
+  m_EditorClassIdentifier: 
+  username: tai2
+  carColors:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  metallic: 0
+  smoothness: 0
+  rimMaterials:
+  - {fileID: 2100000, guid: 51be2f15ec42556479097524329a96d7, type: 2}
+  - {fileID: 2100000, guid: 51be2f15ec42556479097524329a96d7, type: 2}
+  - {fileID: 2100000, guid: 51be2f15ec42556479097524329a96d7, type: 2}
+  playTime: 17.89233
+  money: 100000
+  lastPlayed: 638532349714278574
+  unlockedCars: 010000
+  currentActiveCar: 0
